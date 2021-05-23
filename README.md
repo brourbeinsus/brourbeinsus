@@ -33,6 +33,6 @@
 
 <p><img align="left" src="https://github.com/brourbeinsus/GitHub-readme-stats/blob/master/generated/languages.svg" alt="brourbeinsus" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brourbeinsus&show_icons=true&locale=en" alt="brourbeinsus" /></p>
+![](https://github.com/brourbeinsus/GitHub-readme-stats/blob/master/generated/overview.svg)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brourbeinsus&" alt="brourbeinsus" /></p>
